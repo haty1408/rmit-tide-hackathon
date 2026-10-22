@@ -1,0 +1,6 @@
+{"timestamp":"00:00:00.910","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:03.309","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:03.342","source":"Browser","level":"DEBUG","message":"[TideCloak] Fetching config from /adapter.json"}
+{"timestamp":"00:00:03.342","source":"Browser","level":"DEBUG","message":"[TideCloak] Fetching config from /adapter.json"}
+{"timestamp":"00:00:03.552","source":"Browser","level":"ERROR","message":"[TideCloak] Failed to load config: Error: Failed to fetch config from /adapter.json: 404"}
+{"timestamp":"00:00:03.553","source":"Server","level":"ERROR","message":"[browser] \"[TideCloak] Failed to load config:\" \"\\u001b[31mError: Failed to fetch config from /adapter.json: 404\\u001b[39m\""}
